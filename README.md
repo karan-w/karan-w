@@ -10,8 +10,10 @@
 🎓 &nbsp;I'm a graduate student at Arizona State University, studying Computer Science. I expect to graduate in May 2023. \
 💡 &nbsp;I'm interested in applying my **object oriented design** skills in projects and **web development** using Django, Spring Boot and Angular. I use my strong foundations in C++, Python, Java in the projects I work on. I use the skills I picked up through my AWS certification to build scalable applications. \
 🌱 &nbsp;I'm currently upskilling myself in design patterns, system design and cloud architecture.\
-✍️ &nbsp;In my free time, I enjoy playing chess. Let's play on [chess.com](https://www.chess.com/member/karanwadhwani)!\
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/karan-w/karan-w/blob/main/assets/Resume_KaranWadhwani.pdf) for more details about me.
+♟️ &nbsp;In my free time, I enjoy playing chess. Let's play on [chess.com](https://www.chess.com/member/karanwadhwani)!\
+📄 &nbsp;Please have a look at my [resume](https://github.com/karan-w/karan-w/blob/main/assets/Resume_KaranWadhwani.pdf) for more details about me.\
+✉️ &nbsp;Let's connect on [LinkedIn](https://www.linkedin.com/in/karan-w/)!
+
 
 ### 🛠 &nbsp;Technical Skills
 #### Programming Languages
